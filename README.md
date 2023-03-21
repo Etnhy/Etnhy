@@ -1,7 +1,6 @@
 ### Hi there 👋
 - My name is Yevhenii and i'm a IOS Developer.
-- I develop both on UIKit and SwiftUI
-- 
+- I develop both on UIKit and SwiftUI 💻
 <!--
 **Etnhy/Etnhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
