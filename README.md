@@ -41,7 +41,7 @@
 
 | **Mineflow (Minesweeper)** 🌊 |
 | :--- |
-| **A modern reimagining of the classic logic puzzle.** <br> • Built entirely with **SwiftUI** using **UDF** architecture. <br> • Features a custom **Triangle Grid** and unique gameplay mechanics. <br> • Optimized rendering using `.drawingGroup()` to maintain 60 FPS. <br> • **[View Repository ➡️](https://github.com/Etnhy/Mineflow)** |
+| **A modern reimagining of the classic logic puzzle.** <br> • Built entirely with **SwiftUI** using **UDF** architecture. <br>  • Optimized rendering using `.drawingGroup()` to maintain 60 FPS. <br> • **[View Repository ➡️](https://github.com/Etnhy/Mineflow)** |
 
 
 ### 📫 Connect with me
