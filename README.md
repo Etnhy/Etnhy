@@ -43,19 +43,6 @@
 | :--- |
 | **A modern reimagining of the classic logic puzzle.** <br> • Built entirely with **SwiftUI** using **UDF** architecture. <br> • Features a custom **Triangle Grid** and unique gameplay mechanics. <br> • Optimized rendering using `.drawingGroup()` to maintain 60 FPS. <br> • **[View Repository ➡️](https://github.com/Etnhy/Mineflow)** |
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Etnhy">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Etnhy&show_icons=true&theme=tokyonight" />
-    
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etnhy&layout=compact&theme=tokyonight" />
-  </a>
-</div>
-
----
 
 ### 📫 Connect with me
 
